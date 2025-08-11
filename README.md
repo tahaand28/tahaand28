@@ -2,12 +2,7 @@
 <h3>A passionate frontend , backend developer from Iran</h3>
 - 🔭 I’m currently working on **Nitflex**
 <img align="rtl" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSotTFsM24FS8CV1jb8CYZcaPWYiQZTi1YEFw&s" alt="">
-<style>
-    @font-face {
-        font-family: t;
-        src: url(IRANSans.ttf);
-    }
-</style>
+
 <h3 align="center">A passionate frontend backend developer from Iran</h3>
 
 - 🔭 I’m currently working on **Nitflex**
