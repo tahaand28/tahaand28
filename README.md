@@ -1,7 +1,7 @@
 <h1 style="text-align: center;">Hi 👋, I'm taha</h1>
 <h3>A passionate frontend , backend developer from Iran</h3>
 - 🔭 I’m currently working on **Nitflex**
-<img style="direction: rtl;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSotTFsM24FS8CV1jb8CYZcaPWYiQZTi1YEFw&s" alt="">
+<img align="rtl" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSotTFsM24FS8CV1jb8CYZcaPWYiQZTi1YEFw&s" alt="">
 <style>
     @font-face {
         font-family: t;
