@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm taha</h1>
+<h1 style="text-align: center; font-family: t;">Hi 👋, I'm taha</h1>
+<style>
+    @font-face {
+        font-family: t;
+        src: url(IRANSans.ttf);
+    }
+</style>
 <h3 align="center">A passionate frontend backend developer from Iran</h3>
 
 - 🔭 I’m currently working on **Nitflex**
