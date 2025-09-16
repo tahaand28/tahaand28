@@ -1,4 +1,4 @@
-<h1 align="center">taha</h1>
+<h1 align="center">mohamad taha</h1>
 <h3 align="center">A passionate frontend , backend developer from Iran</h3>
 <br>
 - 🔭 I’m currently working on **Nitflex**
