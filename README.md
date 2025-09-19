@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working freelancer<br>🌱 I’m currently learning React<br>💬 Ask me about frontend<br>⚡ Fun fact enjoy cooding
+I am a web developer with experience in frontend and backend development. My core skills include JavaScript, html, css, and working with MySQL databases. I am looking for opportunities to innovate and collaborate in dynamic teams.
 
 
 ## 🌐 Socials:
