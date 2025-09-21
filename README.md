@@ -9,7 +9,7 @@ I am a web developer with experience in frontend and backend development. My cor
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/https://www.instagram.com/mohamad.taha_ahmadi/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamad-taha-ahmadi-7b7128385) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohamad-taha-ahmadi-7b7128385) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamad.taha.ahmadi2024@gmail.com) 
 
 # 💻 Tech Stack:
