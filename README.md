@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-I am a web developer with experience in frontend and backend development. My core skills include JavaScript, html, css, and working with MySQL databases. I am looking for opportunities to innovate and collaborate in dynamic teams.(من یک توسعه‌دهنده وب با تجربه در توسعه frontend و backend هستم. مهارت‌های اصلی من شامل جاوا اسکریپت، html، css و کار با پایگاه‌های داده MySQL است. من به دنبال فرصت‌هایی برای نوآوری و همکاری در تیم‌های پویا هستم.)
+من یک توسعه‌دهنده وب با تجربه در توسعه frontend و backend هستم. مهارت‌های اصلی من شامل جاوا اسکریپت، html، css و کار با پایگاه‌های داده MySQL است. من به دنبال فرصت‌هایی برای نوآوری و همکاری در تیم‌های پویا هستم.
 
 
 ## 🌐 Socials:
