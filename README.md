@@ -4,8 +4,7 @@
 
 
 # 💫 About Me:
-من یک توسعه‌دهنده وب با تجربه در توسعه frontend و backend هستم. مهارت‌های اصلی من شامل جاوا اسکریپت، html، css و کار با پایگاه‌های داده MySQL است. من به دنبال فرصت‌هایی برای نوآوری و همکاری در تیم‌های پویا هستم.
-
+I am a web developer with experience in frontend and backend development. My core skills include JavaScript, html, css, and working with MySQL databases. I am looking for opportunities to innovate and collaborate in dynamic teams.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/https://www.instagram.com/mohamad.taha_ahmadi/) 
